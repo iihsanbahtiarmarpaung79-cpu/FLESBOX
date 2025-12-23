@@ -1,0 +1,8 @@
+{
+  "name": "FLESBOX - Platform Pembelajaran Cerdas",
+  "description": "Platform pembelajaran digital untuk SD, SMP, SMA dengan materi umum dan agama, kuis otomatis, AI generator, dan chatbot edukatif.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
